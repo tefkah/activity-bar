@@ -1,0 +1,3 @@
+#+TITLE: Activity Bar for Emacs
+
+Because sometimes it's nice to use a mouse.
